@@ -1,0 +1,2 @@
+%wheel ALL=(ALL) ALL
+%wheel ALL=(ALL) NOPASSWD: /usr/bin/systemctl suspend, /usr/bin/systemctl reboot, /usr/bin/systemctl poweroff,/usr/bin/nmcli

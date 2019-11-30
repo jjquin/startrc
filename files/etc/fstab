@@ -1,0 +1,9 @@
+
+# /dev/sdd1 UUID=2063-3B2F
+LABEL=BOOT_EFI      	/mnt/efi  	vfat      	noauto,rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# swap
+# /dev/zvol/zroot/swap	none		swap		discard 0 0
+
+
+
